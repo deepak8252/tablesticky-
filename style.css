@@ -1,3 +1,7 @@
+.tablesdata{
+    overflow:scroll !important;
+    height: 100vh;
+}
 
 table{
     
